@@ -49,9 +49,9 @@ Changes from V2.0.0
 /*-----------------------------------------------------------*/
 
 void vParTestInitialise( void )
-{/*
+{
 	/* Set the top four bits of port D to output. */
-    /*
+    
 	TRISDbits.TRISD7 = partstBIT_AS_OUTPUT;
 	TRISDbits.TRISD6 = partstBIT_AS_OUTPUT;
 	TRISDbits.TRISD5 = partstBIT_AS_OUTPUT;
@@ -59,20 +59,20 @@ void vParTestInitialise( void )
     
 	TRISAbits.TRISA1 = partstBIT_AS_OUTPUT;  // <--- yo 
 	TRISAbits.TRISA0 = partstBIT_AS_OUTPUT;  // <--- yo   
-    */
+    
 	/* Start with all bits off. */
-    /*
+    
 	PORTDbits.RD7 = partstCLEAR_OUTPUT;
 	PORTDbits.RD6 = partstCLEAR_OUTPUT;
 	PORTDbits.RD5 = partstCLEAR_OUTPUT;
 	PORTDbits.RD4 = partstCLEAR_OUTPUT;
-    */
+    
 	/* Enable the driver. */
-    /*
+    
 	ADCON1 = partstENABLE_GENERAL_IO;
 	TRISEbits.TRISE2 = partstBIT_AS_OUTPUT;
 	PORTEbits.RE2 = partstSET_OUTPUT;
-    */
+    
 }
 /*-----------------------------------------------------------*/
 
