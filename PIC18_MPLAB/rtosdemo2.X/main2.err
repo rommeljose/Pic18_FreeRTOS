@@ -1,0 +1,2 @@
+Warning[2065] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\main2.c 176 : static function 'vCalculationTask' never referenced
+Warning[2065] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\main2.c 176 : static function 'vCalculationTask' never referenced

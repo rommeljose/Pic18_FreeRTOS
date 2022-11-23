@@ -1,0 +1,8 @@
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 181 : location PRODH specified in the interrupt save list is redundant
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 181 : location PRODL specified in the interrupt save list is redundant
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 181 : location TABLAT specified in the interrupt save list is redundant
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 181 : location .tmpdata specified in the interrupt save list is redundant
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 208 : location PRODH specified in the interrupt save list is redundant
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 208 : location PRODL specified in the interrupt save list is redundant
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 208 : location TABLAT specified in the interrupt save list is redundant
+Warning[2074] D:\Program Files\FreeRTOSv202112.00\FreeRTOS\Demo\PIC18_MPLAB\serial\serial.c 208 : location .tmpdata specified in the interrupt save list is redundant
